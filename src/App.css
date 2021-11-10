@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.CartWidget{
+  width: 50px;
+  height: auto; 
+  position: relative;
+  top: -55px;
+  left: -710px;
+
+}
+.ItemListContainer{
+  font-size: 20px;
+  position: relative;
+  left: -650px;
+  top: -50px;
+}
